@@ -125,6 +125,9 @@ hanya sebagai hiasan saja, jika bisa print-nya, ya bagus, jika tidak bisa digant
   "jenis_buku"      : "fiksi"/"non_fiksi"
   ```
   pada tiap buku, liat contohnya [disini](sample.txt)
+  
+  extra mile
+  
   [data.txt](https://github.com/asistensi-matematika/tugas5-pbo-aprilia-susanti/files/3828150/data.txt)
 
 
@@ -136,6 +139,10 @@ hanya sebagai hiasan saja, jika bisa print-nya, ya bagus, jika tidak bisa digant
 
 ## Hasil
 buatlah sebuah demo video yang merekam semua case (menambah, mengedit, menghapus buku, serta seluruh error handlingnya (jika ada)), upload ke youtube dan sertakan linknya [disini](INSERT_YOUTUBE_URL_HERE)
+
+https://youtu.be/kfkOUqmrVwo
+
+
 ![](SERTAKAN_GAMBARNYA_DISINI)
 
 ## Upload
