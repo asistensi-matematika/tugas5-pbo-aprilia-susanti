@@ -1,0 +1,26 @@
+PERPUSTAKAAN
+
+Buku ke : [1]
+Judul : buku_mereka
+Pengarang : mereka
+Jumlah Halaman : 286
+Jenis Buku : fiksi
+
+Buku ke : [2]
+Judul : Buku awal
+Pengarang : april dong
+Jumlah Halaman : 200
+Jenis Buku : nonfiksi
+
+Buku ke : [3]
+Judul : buku_saya
+Pengarang : saya
+Jumlah Halaman : 532
+Jenis Buku : fiksi
+
+Buku ke : [4]
+Judul : buku_dia
+Pengarang : dia
+Jumlah Halaman : 527
+Jenis Buku : nonfiksi
+
