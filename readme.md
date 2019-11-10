@@ -1,8 +1,8 @@
 # TUGAS 5 ASISTENSI PBO - Jumat, 1 November 2019
 
-NAMA: `isi nama disini`
+NAMA: APRILIA SUANTI
 
-NRP: `isi nrp disini`
+NRP: 06111840000055
 
 ## Deskripsi Tugas
 Buatlah UML diagram sesuai dengan class, object, method dan property yang kamu buat, sebagai referensi untuk memulai:
@@ -125,6 +125,8 @@ hanya sebagai hiasan saja, jika bisa print-nya, ya bagus, jika tidak bisa digant
   "jenis_buku"      : "fiksi"/"non_fiksi"
   ```
   pada tiap buku, liat contohnya [disini](sample.txt)
+  [data.txt](https://github.com/asistensi-matematika/tugas5-pbo-aprilia-susanti/files/3828150/data.txt)
+
 
 
 - buatlah error handling dimana yang menurut saudara cocok untuk di handle.
